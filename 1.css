@@ -1,6 +1,10 @@
+<table width="300" height="80">
+　<tr><td align="center">
+</table>
 container{
     background-color: aquamarine;
     width: 980px;
+    margin: 0px auto;
     text-align: center
 }
 body{
