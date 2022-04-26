@@ -1,7 +1,7 @@
 container{
     background-color: aquamarine;
     width: 980px;
-    margin: 0px auto;
+    text-align: center
 }
 body{
     background-color: rgb(113, 156, 248);
